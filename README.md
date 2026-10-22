@@ -73,5 +73,5 @@ En cumplimiento de las pautas de la cátedra, declaro el uso de asistentes bajo 
 
 
 ## Enlaces Importantes
-* **Tablero de Gestión Ágil (GHithub Projects/Jira):** [INSERTAR ENLACE AL TABLERO] PENDIENTE
+* **Tablero de Gestión Ágil (GHithub Projects/Jira):** https://github.com/users/julianidiaz98/projects/4/views/1
 * **Documentación PDF Integradora Final:** Disponible en la raíz del repo(`TPI_FINAL_OrganizacionEmpresarial_DIAZ.pdf`).
