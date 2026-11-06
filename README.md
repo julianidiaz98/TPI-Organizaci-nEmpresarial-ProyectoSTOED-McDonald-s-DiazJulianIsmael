@@ -54,9 +54,14 @@ plataformas externas como Rappi o PedidosYa.
 
 
 ## Historia de Usuario (Backlog del Proyecto)
-* **HU01 (Cliente - App Mobile):** *Como cliente, me gustaría ver en la App el tiempo estimado de preparación, para coordinar cuando tenga que retirarlo o recibirlo en caso de.*
-* **HU02 (Personal de Cocina - KVS):** *Como trabajador en la cocina, me parece correcto ir registrando el avance de las etapas en la pantalla KVS, para nuestro orden y la calma del público.*
-* **HU03 (Repartidor - Delivery):** *Como repartidor, si sincronizo mi ubicación con la sucursal, podría llegar a tiempo justo cuando lo terminan de preparar, asi no se enfría la comida.*
+* **HU01 (Cliente - App Mobile):** **Como** cliente de McDonald's, **quiero** visualizar en tiempo real la estimación dinámica de preparación de mi pedido, **para** organizar mi llegada a la sucursal o recepcionar sin demoras innecesarias.
+* **Estado en Kanban:** `Listo` (*Done*)
+
+* **HU02 (Personal de Cocina - KVS):** **Como** trabajador en la cocina, **quiero** ir registrando  y actualizar estado de las comandas directamente en la pantalla táctil KVS, **para** nuestro orden y la calma del público.
+* **Estado en Kanban:** `En Progreso` (*In Progress*)
+
+* **HU03 (Repartidor - Delivery):** **Como** repartidor, **quiero** sincronizar mi ubicación GPS con la sucursal, **para** poder llegar a tiempo justo cuando lo terminan de preparar, asi no se enfría la comida.
+* **Estado en Kanban:** `Por Hacer` (*To Do*)
 
 
 ---
@@ -64,6 +69,14 @@ plataformas externas como Rappi o PedidosYa.
 
 ## Declaración de Transparencia sobre el uso de IA
 En cumplimiento de las pautas de la cátedra, declaro el uso de asistentes bajo las siguientes condiciones:
+* **Prompts para la IA:** En general, para cada parte del TPI asi como la unión de los mismos, le pedí siempre ideas sobretodo, sea esquemas, gráficos así como los contenidos para su posterior revisión y corrección por respuesta.
+
+**EJEMPLO DE PROMPT:**
+“Interdependencia de Módulos: Proponer un área o módulo de software específico que requiera desarrollo o mejora (ej. comercialización, inventario, facturación) y explicar detalladamente cómo su implantación alterará e interactuará sistémicamente con las demás dependencias de la organización. 
+se me ocurre algo relacionado con el inventario y los recursos del local, por ejemplo un software que pueda calcular el tiempo estimado de espera para el local, para el automc y para el delivery tambien, con el mayor seguimiento posible e incluso algo visual como (estan preparando tu hamburguesa, añadiendo aderezos, empaquetando tu pedido, en camino -> si es delivery que siga mediante ubicacion) todo que se pueda ver desde la app y pantallas en el local en el caso de estar presencial“
+
+Luego de eso fuimos corrigiendo y consolidando para que se adapte la idea a McDonald’s y como debía ser según los requerimientos y contenidos de la cátedra.
+
 * **Propósito de uso:** Para corregir el estilo, sea ortográfico como del diseño, sumado a una guía de como estructurar, en este caso los diagramas BPMN y el formato Markdown de la documentación técnica.
 * **Control Crítico Humano:** Todos los conceptos y respuestas, asi como diagramas y demás, son revisados antes de la previa entrega.
 * **Responsabilidad Intelectual:** Asumo como estudiante la autoría integral y la responsabilidad técnica total sobre el proyecto.
