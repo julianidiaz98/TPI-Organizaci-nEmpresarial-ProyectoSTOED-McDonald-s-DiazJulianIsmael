@@ -81,7 +81,7 @@ Luego de eso fuimos corrigiendo y consolidando para que se adapte la idea a McDo
 * **Control Crítico Humano:** Todos los conceptos y respuestas, asi como diagramas y demás, son revisados antes de la previa entrega.
 * **Responsabilidad Intelectual:** Asumo como estudiante la autoría integral y la responsabilidad técnica total sobre el proyecto.
 
-
+**La revisión del PR fue realizada por el propio autor por tratarse de un trabajo individual; los comentarios y correcciones quedan documentados en el PR**
 ---
 
 
